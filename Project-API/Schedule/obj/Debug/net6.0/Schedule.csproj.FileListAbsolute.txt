@@ -1,0 +1,425 @@
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\appsettings.Development.json
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\appsettings.json
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Schedule.exe
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Schedule.deps.json
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Schedule.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Schedule.pdb
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Humanizer.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Application.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Business.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Database.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Application.pdb
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Business.pdb
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Database.pdb
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets\msbuild.Schedule.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets\msbuild.build.Schedule.props
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Schedule.props
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Schedule.props
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.dll
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.pdb
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+D:\Jobs\HCM\Schedule\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Jobs\HCM\Schedule\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\appsettings.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Application.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Application.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\appsettings.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Application.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Application.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\appsettings.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Application.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Application.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\appsettings.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Application.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Application.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\ref\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\appsettings.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.exe
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Application.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Application.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\scopedcss\bundle\Schedule.styles.css
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\refint\Schedule.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\Schedule.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Schedule\obj\Debug\net6.0\ref\Schedule.dll

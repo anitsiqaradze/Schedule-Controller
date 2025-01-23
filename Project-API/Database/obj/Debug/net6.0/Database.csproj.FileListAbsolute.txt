@@ -1,0 +1,102 @@
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Database.deps.json
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Database.dll
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Database.pdb
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Business.dll
+D:\Jobs\HCM\Schedule\Database\bin\Debug\net6.0\Business.pdb
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.dll
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\refint\Database.dll
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.pdb
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+D:\Jobs\HCM\Schedule\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\ref\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Database\obj\Debug\net6.0\ref\Database.dll

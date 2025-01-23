@@ -1,0 +1,84 @@
+D:\Jobs\HCM\Schedule\Business\bin\Debug\net6.0\Business.deps.json
+D:\Jobs\HCM\Schedule\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+D:\Jobs\HCM\Schedule\Business\bin\Debug\net6.0\Business.dll
+D:\Jobs\HCM\Schedule\Business\bin\Debug\net6.0\Business.pdb
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.dll
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.pdb
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+D:\Jobs\HCM\Schedule\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_crud_application\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\angular_api_project - Copy\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\tsiqa\Desktop\schedule-controller-project1\angular-schedule-controller\Project-API\Business\obj\Debug\net6.0\ref\Business.dll
