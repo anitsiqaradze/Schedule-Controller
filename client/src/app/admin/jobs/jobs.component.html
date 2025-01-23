@@ -1,0 +1,59 @@
+<div class="container my-4 text-center">
+  <h2 class="mb-4">Jobs</h2>
+
+  <div class="row">
+    <!-- Table Section -->
+    <div class="col-12 mb-4">
+      <table class="table table-hover">
+        <thead class="thead-light">
+          <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Event</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let job of jobs">
+            <td>{{ job.title }}</td>
+            <td>
+              <button class="btn btn-light btn-sm" (click)="deleteJob(job.id)">
+                Delete Job
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Form Section -->
+
+    <div class="col-12">
+      <form
+        [formGroup]="newJobForm"
+        class="p-3 border rounded shadow-sm bg-light"
+      >
+        <h5 class="mb-3 text-center c-blue">Add New Job</h5>
+        <div class="form-group">
+          <label for="jobTitle" class="form-label">Job Title</label>
+          <input
+            id="jobTitle"
+            type="text"
+            formControlName="jobTitle"
+            class="form-control"
+          />
+          <div *ngIf="error_message" class="text-danger fw-bold mt-2">
+            {{ error_message }}
+          </div>
+        </div>
+
+        <button
+          type="button"
+          class="input_field mt-3 w-25"
+          [disabled]="!newJobForm.valid"
+          (click)="addJob()"
+        >
+          Submit
+        </button>
+      </form>
+    </div>
+  </div>
+</div>

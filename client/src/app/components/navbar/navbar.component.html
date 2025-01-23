@@ -1,0 +1,24 @@
+<header class="p-3 navbar-dark bg-dark">
+  <div class="container">
+    <div class="d-flex flex-wrap align-items-center justify-content-between">
+      <!-- Left-aligned content -->
+      <a
+        href="/"
+        class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none"
+      >
+        Shift Controller
+      </a>
+
+      <!-- Right-aligned content -->
+      <div class="text-end" *ngIf="isLoggedIn">
+        <button
+          type="button"
+          class="btn btn-outline-light me-2"
+          (click)="logOut()"
+        >
+          Log out
+        </button>
+      </div>
+    </div>
+  </div>
+</header>

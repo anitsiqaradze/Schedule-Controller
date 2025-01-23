@@ -1,0 +1,90 @@
+.calendar-container {
+  font-family: Arial, sans-serif;
+  margin: 20px auto;
+  width: 80%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f0f0f0;
+  font-weight: bold;
+  text-align: center;
+}
+
+.week {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  background-color: #e0e0e0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.jobs {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  border-top: 1px solid #ccc;
+}
+
+.cell {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.day {
+  background-color: #d6f5d6;
+}
+
+.job {
+  background-color: #f0f8ff;
+}
+
+.cell.job {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px; /* Fixed height to prevent resizing */
+  padding: 5px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+
+.cell.job span {
+  display: inline-block;
+  max-width: 100%; /* Prevent overflow */
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 12px;
+  white-space: nowrap; /* Prevent line breaks */
+  cursor: pointer;
+}
+
+.cell.job span.morning {
+  background-color: #28a745; /* Green for morning shifts */
+  align-self: flex-start;
+}
+
+.cell.job span.evening {
+  background-color: #ffc107; /* Yellow for evening shifts */
+  align-self: flex-end;
+}
+
+/* Ensure spans do not stretch the cell size */
+.cell.job span:first-child {
+  align-self: flex-start; /* Align morning shift at the top */
+}
+
+.cell.job span:last-child {
+  align-self: flex-end; /* Align evening shift at the bottom */
+}
+
+.cell.job span:hover {
+  opacity: 0.9; /* Slight hover effect */
+}

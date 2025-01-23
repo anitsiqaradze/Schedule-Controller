@@ -1,0 +1,15 @@
+.c-blue {
+  color: #61647c;
+}
+.b-blue {
+  background-color: rgba(97, 100, 124, 0.39);
+}
+
+.input_field {
+  border-radius: 30px;
+  border: 1px solid #000;
+}
+#jobTitle {
+  all: unset;
+  border-bottom: 1px solid;
+}

@@ -1,0 +1,188 @@
+<div
+  class="container-fluid d-flex justify-content-center align-items-center flex-column gap-4 vh-100"
+>
+  <h1 class="c-blue">Register</h1>
+  <form class="p-4 needs-validation" [formGroup]="registrationForm">
+    <div class="row">
+      <!-- First Name Field -->
+      <div class="col-md-6">
+        <div class="form-group mb-3">
+          <label for="firstname" class="form-label">First Name</label>
+          <input
+            type="text"
+            id="firstname"
+            class="form-control input_field"
+            formControlName="firstname"
+            [class.is-invalid]="
+              registrationForm.controls['firstname'].invalid &&
+              registrationForm.controls['firstname'].touched
+            "
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls?.['firstname']?.invalid && registrationForm.controls?.['firstname']?.touched"
+          >
+            Please Enter First Name
+          </div>
+        </div>
+      </div>
+
+      <!-- Last Name Field -->
+      <div class="col-md-6">
+        <div class="form-group mb-3">
+          <label for="lastname" class="form-label">Last Name</label>
+          <input
+            type="text"
+            id="lastname"
+            class="form-control input_field"
+            formControlName="lastname"
+            [class.is-invalid]="
+              registrationForm.controls['lastname'].invalid &&
+              registrationForm.controls['lastname'].touched
+            "
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls?.['lastname']?.invalid && registrationForm.controls?.['lastname']?.touched"
+          >
+            Please Enter Last Name
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Additional Fields -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="form-group mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input
+            type="text"
+            id="email"
+            class="form-control input_field"
+            formControlName="email"
+            [class.is-invalid]="
+              registrationForm.controls['email'].invalid &&
+              registrationForm.controls['email'].touched
+            "
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls?.['email']?.invalid && registrationForm.controls?.['email']?.touched"
+          >
+            Please Enter Email
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Password Fields -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group mb-3">
+          <label for="password" class="form-label">Password</label>
+          <input
+            type="password"
+            id="password"
+            class="form-control input_field"
+            formControlName="password"
+            [class.is-invalid]="
+              registrationForm.controls['password'].invalid &&
+              registrationForm.controls['password'].touched
+            "
+          />
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls?.['password']?.errors?.['required'] && registrationForm.controls?.['password']?.touched"
+          >
+            Please Enter Password
+          </div>
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls?.['password']?.errors?.['minlength'] && registrationForm.controls?.['password']?.touched"
+          >
+            Must be minimum 6 characters
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group mb-3">
+          <label for="confirmPassword" class="form-label"
+            >Confirm Password</label
+          >
+          <input
+            type="password"
+            id="confirmPassword"
+            class="form-control input_field"
+            formControlName="confirmPassword"
+            [class.is-invalid]="
+              (registrationForm.controls['confirmPassword'].invalid ||
+                registrationForm.hasError('passwordMismatch')) &&
+              registrationForm.controls['confirmPassword'].touched
+            "
+          />
+          <div class="invalid-feedback" *ngIf="passwordMismatchErr">
+            {{ passwordMismatchErr }}
+          </div>
+          <div
+            class="invalid-feedback"
+            *ngIf="registrationForm.controls['confirmPassword']?.errors?.['required'] && registrationForm.controls['confirmPassword']?.touched"
+          >
+            Please Confirm Password
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- {{ registrationForm.errors | json }} showing error as json for debugging -->
+    <!-- <p>
+      Confirm Password Touched:
+      {{ registrationForm.get("confirmPassword")?.touched }}
+    </p> -->
+
+    <!-- Job Selector -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="form-group mb-3">
+          <label for="jobId" class="form-label">Select Job</label>
+          <select
+            id="jobId"
+            class="form-select input_field custom-select"
+            formControlName="jobId"
+            [class.is-invalid]="
+              registrationForm.controls['jobId'].invalid &&
+              registrationForm.controls['jobId'].touched
+            "
+          >
+            <option *ngFor="let job of jobOptions" [ngValue]="job">
+              {{ job.title }}
+            </option>
+          </select>
+          <div
+            class="invalid-feedback"
+            *ngIf="
+              registrationForm.controls['jobId']?.invalid &&
+              registrationForm.controls['jobId']?.touched
+            "
+          >
+            Please select a job.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="d-flex flex-column align-items-center gap-2 mt-5">
+      <button
+        type="button"
+        class="btn b-blue w-25 text-light input_field"
+        (click)="Register()"
+      >
+        Register
+      </button>
+      <button type="button" class="btn btn-link c-blue" (click)="goToLogin()">
+        Go to login
+      </button>
+    </div>
+    <!-- </div>
+    </div> -->
+  </form>
+</div>

@@ -1,0 +1,22 @@
+#form {
+  background-color: #f9f9f9;
+}
+
+.c-blue {
+  color: #61647c;
+}
+.b-blue {
+  background-color: #61647c;
+}
+
+.input_field {
+  border-radius: 30px;
+  border: 1px solid #000;
+}
+.my-select {
+  background-color: #61647c;
+  color: white;
+  border: 0 none;
+  border-radius: 20px;
+  padding: 6px 20px;
+}

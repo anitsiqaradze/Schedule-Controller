@@ -1,0 +1,32 @@
+<div class="calendar-container mt-4">
+  <!-- Header for Navigation -->
+  <div class="header">
+    <button (click)="prevWeek()">&#8592; Previous Week</button>
+    <span>{{ monthYear }}</span>
+    <button (click)="nextWeek()">Next Week &#8594;</button>
+  </div>
+
+  <!-- Days Row: Numbers of the Month -->
+  <div class="week">
+    <div class="cell day">job</div>
+    <div class="cell day" *ngFor="let date of currentWeek">
+      {{ date.getDate() }}
+    </div>
+  </div>
+
+  <!-- Jobs Rows -->
+  <div class="jobs" *ngFor="let job of jobs">
+    <div class="cell day">{{ job.title }}</div>
+    <div class="cell job" *ngFor="let date of currentWeek">
+      <span
+        [ngClass]="weekSchedules[job.id]?.[date.toISOString().slice(0, 10)]?.shiftType"
+        *ngIf="weekSchedules[job.id]?.[date.toISOString().slice(0, 10)]"
+        (click)="deleteSchedule(weekSchedules[job.id]?.[date.toISOString().slice(0,10)]?.id)"
+      >
+        {{ weekSchedules[job.id]?.[date.toISOString().slice(0, 10)]?.shiftType}}
+        -
+        {{ weekSchedules[job.id]?.[date.toISOString().slice(0, 10)]?.firstName + " " + weekSchedules[job.id]?.[date.toISOString().slice(0, 10)]?.lastName}}
+      </span>
+    </div>
+  </div>
+</div>

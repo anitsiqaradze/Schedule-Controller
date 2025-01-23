@@ -1,0 +1,53 @@
+<div class="container text-center p-2">
+  <button (click)="showModal()" class="btn-sm btn btn-light c-blue">
+    Show Schedule Requests
+  </button>
+</div>
+<app-dashboard></app-dashboard>
+
+<div class="modal-overlay" (click)="hideModal()" *ngIf="isModalVisible">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <table class="table table-sm">
+      <thead>
+        <tr>
+          <th scope="col">Last</th>
+          <th scope="col">First</th>
+          <th scope="col">Job</th>
+          <th scope="col">Shift</th>
+
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let request of Schedules">
+          <td scope="row">{{ request.firstName }}</td>
+          <td>{{ request.lastName }}</td>
+          <td>{{ request.jobTitle }}</td>
+          <td>{{ request.shiftType }}</td>
+          <td>
+            <button
+              type="button"
+              class="btn btn-light btn-sm"
+              (click)="approveScheduleRequest(request.id)"
+            >
+              approve
+            </button>
+            <button
+              type="button"
+              class="btn btn-dark btn-sm ms-4"
+              (click)="declineScheduleRequest(request.id)"
+            >
+              decline
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="container-fluid my-4 border b-blue rounded" style="width: 100%">
+  <div class="row align-items-start">
+    <div class="col"><app-jobs></app-jobs></div>
+    <div class="col-md-7"><app-users-table></app-users-table></div>
+  </div>
+</div>

@@ -1,0 +1,36 @@
+<div class="container my-4 text-center">
+  <h2 class="mb-4">Users</h2>
+  <table class="table table-hover">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">First</th>
+        <th scope="col">Last</th>
+        <th scope="col" style="width: 150px">User Role</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of Users">
+        <td>{{ user.firstName }}</td>
+        <td>{{ user.lastName }}</td>
+        <td class="border p-2 text-center">
+          {{ user.role }}
+        </td>
+        <td>
+          <button
+            class="btn btn-light btn-sm mr-2"
+            (click)="deleteUser(user.id)"
+          >
+            Delete User
+          </button>
+          <button
+            class="btn btn-sm btn-hover border-dark"
+            (click)="changeUserRole(user.id, user.roleId)"
+          >
+            Change User Role
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,51 @@
+<app-dashboard></app-dashboard>
+<div class="container d-flex justify-content-center align-items-center my-4">
+  <div style="max-width: 400px; width: 100%">
+    <h4 class="c-blue text-center fs-5 mb-4">Send Schedule Request</h4>
+    <form [formGroup]="scheduleForm">
+      <!-- Shift Type -->
+      <div class="mb-3">
+        <label for="shiftType" class="form-label c-blue">Shift Type</label>
+        <select class="custom-select my-select" formControlName="shiftType">
+          <option value="Morning">Morning</option>
+          <option value="Evening">Evening</option>
+        </select>
+
+        <div
+          *ngIf="scheduleForm.controls?.['shiftType'].touched && scheduleForm.controls?.['shiftType'].invalid"
+          class="text-danger small mt-1"
+        >
+          Enter shift type
+        </div>
+      </div>
+
+      <!-- Date -->
+      <div class="mb-3">
+        <label for="date" class="form-label">Date</label>
+        <input
+          type="date"
+          id="date"
+          formControlName="date"
+          class="form-control"
+        />
+        <div
+          *ngIf="scheduleForm.controls?.['date'].touched && scheduleForm.controls?.['date'].invalid"
+          class="text-danger small mt-1"
+        >
+          Enter date
+        </div>
+      </div>
+
+      <!-- Submit Button -->
+      <div class="d-flex align-items-center justify-content-center mt-2">
+        <button
+          type="button"
+          class="btn b-blue text-light w-50 input_field"
+          (click)="sendShiftRequest()"
+        >
+          Send Request
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
